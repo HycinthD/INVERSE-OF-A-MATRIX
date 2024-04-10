@@ -27,6 +27,9 @@ res=np.linalg.inv(a)
 print(res)
 ```
 ## Output:
+
+![alt text](<Screenshot (197).png>)
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
